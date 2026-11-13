@@ -1,0 +1,6 @@
+# The installers are attached to GitHub Releases, not committed:
+# GitHub refuses files over 100 MB in a push, and releases give stable download links.
+*.dmg
+*.exe
+*.apk
+.DS_Store
